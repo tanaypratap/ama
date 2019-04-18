@@ -2,6 +2,7 @@
 
 ## How to do it?
 
+The repo is [github.com/tanaypratap/ama](https://github.com/tanaypratap/ama)
 Just open an issue and write your question.
 
 ## Will all questions be answered?
