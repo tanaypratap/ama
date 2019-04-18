@@ -1,8 +1,10 @@
-# Ask Me (Tanay) Anything
+# Ask Me Anything
+![Ask Me Anything on this Github Repo](https://i.imgur.com/OA9wxdO.jpg)
 
 ## How to do it?
 
 The repo is [github.com/tanaypratap/ama](https://github.com/tanaypratap/ama)
+
 Just open an issue and write your question.
 
 ## Will all questions be answered?
@@ -19,6 +21,19 @@ There are many ways you can help me do this better:
 
 ## How will I know when my question is answered?
 
-Subscribe. You can click on 'Watch' the repository and you'll get an email everytime I answer the question.
-I'll also post useful questions on Instagram, Twitter, and Linked so connect with me there.
+Subscribe. You can click on 'Watch' the repository and you'll get an email every time I answer the question.
+I'll also post selected questions and answers on
+
+[Instagram](https://instagram.com/tanaypratap) 
+
+[Twitter](https://twitter.com/@tanaypratap) 
+
+[Linkedin](https://www.linkedin.com/in/tpratap/) 
+
+[Facebook](https://facebook.com/prataptanay) 
+
+[Youtube](https://youtube.com/tanaypratap) 
+
+
+so connect with me on the social media tool of your choosing.
 
