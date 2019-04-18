@@ -22,9 +22,11 @@ Keep in mind that it should **not be unethical**.
 It should **not be a consulting arrangement**. If you're looking for a consultant ping me on [Linkedin](https://www.linkedin.com/in/tpratap/).
 
 **Not be a stackoverflow question**. You are getting an error in a program and you need me to look into it. Please ask such questions on 
-[stackoverflow](https://stackoverflow.com/), if it's a general programming question.
-or [metastartup-fb group](https://www.facebook.com/groups/361737054599889/), if it's a question related to my youtube video courses,
-or [web developers family group](https://www.facebook.com/groups/akshaysaini.in/), if it's a general web dev related question
+* [stackoverflow](https://stackoverflow.com/), if it's a general programming question.
+
+* or [metastartup-fb group](https://www.facebook.com/groups/361737054599889/), if it's a question related to my youtube video courses,
+
+* or [web developers family group](https://www.facebook.com/groups/akshaysaini.in/), if it's a general web dev related question
 where I routinely answer such questions.
 
 ## Will all questions be answered?
