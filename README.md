@@ -43,7 +43,7 @@ There are many ways you can help me do this better:
 
 ## About me
 
-**Engineer at Micorosft**. Rewriting and revamping Microsoft's fastest growing app: Microsoft Teams. Works on **React, Typescript**, Redux, NodeJS, Apollo and **GraphQL** day in and out. Crazy about web performance!
+**Engineer at Microsoft**. Rewriting and revamping Microsoft's fastest growing app: Microsoft Teams. Works on **React, Typescript**, Redux, NodeJS, Apollo and **GraphQL** day in and out. Crazy about web performance!
 Checkout [https://tanaypratap.com](https://tanaypratap.com) for more. I write blogs, give talks at meetups, speak at conferences and teach newbies on [Youtube](https://youtube.com/tanaypratap). I keep on learning new stuff from internet, work and life, simplify it and pay it forward! 
 
 ## How will I know when my question is answered?
